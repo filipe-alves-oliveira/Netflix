@@ -1,0 +1,13 @@
+/* td navegador ele acaba adicionando uma marge, alguns detalhes de estilizacao minimo q pode atrapalhar
+e varia de navegador para navegador, para saber q toda estilizacao q estamos fazendo ta partindo do 0
+eu crio esse reset para todo mundo partir de um mesmo ponto. */
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: 0;
+    box-sizing: border-box;
+}
+
+
+
