@@ -182,7 +182,7 @@ body{
 
 
 
-.moviw p{
+.movie p{
     text-transform: capitalize;
     height: 20px;
     overflow: hidden;
@@ -198,4 +198,21 @@ body{
     background: #181818;
     border: none;
     outline: none;
+<<<<<<< HEAD
+=======
+}
+
+.pre-btn{
+    left: -2.5vw;
+}
+
+.next-btn{
+    right: -2.5vw;
+}
+
+.pre-btn img,
+.next-btn img{
+    width: 20px;
+    height: 20px;
+>>>>>>> main
 }
