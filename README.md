@@ -1,4 +1,4 @@
-# Projeto Clone Netflix
+# Projeto Clone Netflix criado para apresentação e portfólio.
 
 Utilizado API > https://www.themoviedb.org/
 
