@@ -1,3 +1,8 @@
-# Projeto Netflix
+# Projeto Clone Netflix
 
-Para rodar esse projeto execute node server.
+Utilizado API > https://www.themoviedb.org/
+
+Para rodar esse projeto execute > node server.
+
+Porta: http://localhost:3333/
+
